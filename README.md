@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jakkapat Paijit 👋
 
 - 📚 I’m currently studying at KMITL
 - 🌱 I’m currently learning React.js
