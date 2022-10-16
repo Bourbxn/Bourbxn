@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering at KMITL.</h3>
 
 
-- 🔭 I’m currently working on **JavaFX Covid-19**
+- 🔭 I’m currently working on **Petrol Prediction Project**
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
