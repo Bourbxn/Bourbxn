@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
-- 💬 Ask me about **Python, Java, C and C++**
+- 💬 Ask me about **Python, Java, Javascript, C and C++**
 
 - 📫 How to reach me **jakkapat97@gmail.com**
 
