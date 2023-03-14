@@ -8,7 +8,7 @@
   </span>
 </h1>
 <p align="center">I am passionate in full-stack developer but...</p>
-<p align="center">Skip that! My name is JAKKAPAT PAIJIT call me BOSS OK?</p>
+<p align="center">Skip that! My name is JAKKAPAT PAIJIT call me BOSS ok?</p>
 <br>
 
 
