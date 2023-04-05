@@ -23,6 +23,9 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cpp" widht="40" height="40" />
   </a>
    <a>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="cs" widht="40" height="40" />
+  </a>
+   <a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="java" widht="40" height="40" />
   </a>
    <a>
@@ -61,6 +64,9 @@
   </a>
   <a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" alt="fast" widht="40" height="40" />
+  </a>
+  <a>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" alt="dotnet" widht="40" height="40" />
   </a>
   <a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" widht="40" height="40" />
