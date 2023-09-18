@@ -69,6 +69,9 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" alt="dotnet" widht="40" height="40" />
   </a>
   <a>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="dotnet" widht="40" height="40" />
+  </a>
+  <a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" widht="40" height="40" />
   </a>
    <a>
@@ -76,6 +79,9 @@
   </a>
   <a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" alt="angular" widht="40" height="40" />
+  </a>
+  <a>
+    <img src=" https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" widht="40" height="40" />
   </a>
    <a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="tailwind" widht="40" height="40" />
