@@ -77,7 +77,9 @@
    <a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="next" widht="40" height="40" />
   </a>
-  <a>
+     <a>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" alt="next" widht="40" height="40" />
+  </a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" alt="angular" widht="40" height="40" />
   </a>
   <a>
