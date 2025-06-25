@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.tenor.com/O_JAIoDznkoAAAAC/developer-recruiters.gif" alt="meme" width="500"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk0Mng5MjR5bjdxMHU3NnF3am9jenp6ZXVlZ3MzZXptODRvYjR2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="meme" width="500"/>
 </div>
 <h1 align="center">
   Yo!  What’s up?
 </h1>
 <p align="center">I am passionate in full-stack developer but...</p>
-<p align="center">Skip that! My name is JAKKAPAT PAIJIT call me BOSS ok?</p>
+<p align="center">Skip that! My name is <b>JAKKAPAT PAIJIT</b> call me <b>BOSS</b> ok?</p>
 <br>
 
 
